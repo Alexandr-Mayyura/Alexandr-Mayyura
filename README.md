@@ -14,9 +14,11 @@
 
 
 <div align="center">
-  <img src="hhttps://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif" width="600" height="300"/>
 </div>
+  ### Alexander 👋
   </div>
+  
   
 ### :man_technologist: About Me :
   I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
