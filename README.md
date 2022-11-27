@@ -5,6 +5,9 @@
      <a href="https://vk.com/id6770014">
   <img src="https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
        </a>
+  <a href="https://t.me/Alex_imso">
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=TG&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+       </a>
 </div>
 
 <div id="badges">
