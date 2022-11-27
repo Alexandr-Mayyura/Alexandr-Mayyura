@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I create my pet projects and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge)](https://vk.com/id6770014)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Alexandr-Mayyura-blue?logo=VK&logoColor=white&style=for-the-badge)](https://vk.com/id6770014)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
