@@ -40,11 +40,10 @@
 </div>
 
 ### :fire: My Stats :
-</div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandr-Mayyura&show_icons=true&theme=merko)
-</div>
-</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandr-Mayyura&show_icons=true&theme=merko)</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandr-Mayyura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
