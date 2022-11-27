@@ -35,5 +35,5 @@
 </div>
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandr-Mayyura&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandr-Mayyura&show_icons=true&theme=merko)
 
