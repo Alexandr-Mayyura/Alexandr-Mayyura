@@ -2,7 +2,9 @@
   <img src="https://media.giphy.com/media/6Vb1dpG6jgGPa5x9iR/giphy.gif" width="100"/>
   
   <div id="badges">
+     <a href="https://vk.com/id6770014">
   <img src="https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
+       </a>
 </div>
 https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge
 
