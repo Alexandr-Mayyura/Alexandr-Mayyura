@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
        </a>
 </div>
-https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Alexandr-Mayyura&style=flat-square&color=blue" alt=""/>
