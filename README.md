@@ -1,3 +1,10 @@
+
+https://media.giphy.com/media/6Vb1dpG6jgGPa5x9iR/giphy.gif
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/6Vb1dpG6jgGPa5x9iR/giphy.gif" width="100"/>
+</div>
+
 ### Hi there 👋
 
 <!--
