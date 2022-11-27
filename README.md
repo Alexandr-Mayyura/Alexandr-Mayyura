@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/6Vb1dpG6jgGPa5x9iR/giphy.gif" width="100"/>
 </div>
 
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=Alexandr-Mayyura&style=flat-square&color=blue" alt=""/>
+</div>
+
 ### Hi there 👋
 
 <!--
