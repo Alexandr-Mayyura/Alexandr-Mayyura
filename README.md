@@ -34,4 +34,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+### :fire: My Stats :
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alexandr-Mayyura&show_icons=true&theme=transparent)
 
