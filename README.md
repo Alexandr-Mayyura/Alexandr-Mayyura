@@ -16,7 +16,6 @@
 <div align="center">
   <img src="hhttps://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif" width="600" height="300"/>
 </div>
-  ### Alexander 👋
   </div>
   
 ### :man_technologist: About Me :
