@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/6Vb1dpG6jgGPa5x9iR/giphy.gif" width="100"/></br>
+  <img src="https://media.giphy.com/media/6Vb1dpG6jgGPa5x9iR/giphy.gif" width="100"/></br></br>
   
   <div id="badges">
      <a href="https://vk.com/id6770014">
