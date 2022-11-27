@@ -14,10 +14,10 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif" width="350" height="150"/>
 </div>
   
-  ## Alexander 👋
+  # Alexander 👋
   </div>
   
   
