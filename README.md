@@ -12,7 +12,8 @@
   <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300"/>
 </div>
   
-
+### :man_technologist: About Me :
+  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 <!--
 **Alexandr-Mayyura/Alexandr-Mayyura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
