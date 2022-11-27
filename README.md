@@ -11,11 +11,12 @@
   <img src="https://komarev.com/ghpvc/?username=Alexandr-Mayyura&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there 👋
+
 
 <div align="center">
-  <img src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif" width="600" height="300"/>
+  <img src="hhttps://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif" width="600" height="300"/>
 </div>
+  ### Alexander 👋
   </div>
   
 ### :man_technologist: About Me :
