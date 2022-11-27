@@ -16,7 +16,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif" width="350" height="150"/>
 </div>
-  
   # 𝔸𝕝𝕖𝕩𝕒𝕟𝕕𝕖𝕣 👋
   </div>
   
