@@ -6,13 +6,11 @@
   <img src="https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
        </a>
 </div>
-</br>
+
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Alexandr-Mayyura&style=flat-square&color=blue" alt=""/>
 </div>
-
-
-
+</br>
 <div align="center">
   <img src="https://media.giphy.com/media/LoCxWxf4M3SHqwXDBL/giphy.gif" width="350" height="150"/>
 </div>
