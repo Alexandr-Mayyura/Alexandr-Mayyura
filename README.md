@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/6Vb1dpG6jgGPa5x9iR/giphy.gif" width="100"/>
-
+  
+  <div id="badges">
+  <img src="https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
+</div>
+https://img.shields.io/badge/Vkontakte-blue?logo=VK&logoColor=white&style=for-the-badge
 
 <div id="badges">
   <img src="https://komarev.com/ghpvc/?username=Alexandr-Mayyura&style=flat-square&color=blue" alt=""/>
