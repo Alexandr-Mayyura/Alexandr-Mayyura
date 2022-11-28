@@ -23,7 +23,7 @@
   
   
 ### :man_technologist: About Me :
-  I am a IOS Developer (frontend) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+  I am a IOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
   
 - :telescope: I'm working on creating IOS applications.
 
